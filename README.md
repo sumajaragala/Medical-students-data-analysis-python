@@ -95,9 +95,3 @@ The project includes visualizations such as:
 - Build an interactive dashboard using Power BI or Tableau
 - Develop a machine learning model to predict diabetes
 - Deploy the analysis as a web application using Streamlit
-
-
-
-
-Your Name
-
